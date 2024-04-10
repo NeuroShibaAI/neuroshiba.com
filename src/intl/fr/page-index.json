@@ -1,9 +1,9 @@
 {
   "page-index-hero-image-alt": "Illustration d’une ville futuriste représentant l’écosystème Ethereum.",
-  "page-index-meta-description": "Ethereum est une plateforme monétaire globale et décentralisée qui propose également de nouveaux types d'applications. Sur Ethereum, vous pouvez écrire du code qui contrôle de la monnaie, et construire des applications accessibles partout dans le monde.",
+  "page-index-meta-description-old": "Ethereum est une plateforme monétaire globale et décentralisée qui propose également de nouveaux types d'applications. Sur Ethereum, vous pouvez écrire du code qui contrôle de la monnaie, et construire des applications accessibles partout dans le monde.",
   "page-index-meta-title": "Accueil",
-  "page-index-title": "Bienvenue sur Ethereum",
-  "page-index-description": "Ethereum est la technologie utilisée par la communauté qui gère la cryptomonnaie ether (ETH) ainsi que des milliers d'applications décentralisées.",
+  "page-index-title_eth": "Bienvenue sur Ethereum",
+  "page-index-description-old": "Ethereum est la technologie utilisée par la communauté qui gère la cryptomonnaie ether (ETH) ainsi que des milliers d'applications décentralisées.",
   "page-index-title-button": "Explorer Ethereum",
   "page-index-get-started": "Premiers pas",
   "page-index-get-started-description": "Le site ethereum.org est votre porte d'entrée dans le monde d'Ethereum. Cette technologie est nouvelle et évolutive - un guide vous sera utile. Voici ce que nous vous recommandons de faire si vous voulez vous lancer.",

@@ -1,9 +1,9 @@
 {
   "page-index-hero-image-alt": "Ilustracija grada budućnosti, koja predstavlja Ethereum ekosistem.",
-  "page-index-meta-description": "Ethereum je globalna, decentralizovana platforma za novac i nove vrste aplikacija. Na Ethereum-u možete pisati kod koji kontroliše novac i graditi aplikacije dostupne bilo gde u svetu.",
+  "page-index-meta-description-old": "Ethereum je globalna, decentralizovana platforma za novac i nove vrste aplikacija. Na Ethereum-u možete pisati kod koji kontroliše novac i graditi aplikacije dostupne bilo gde u svetu.",
   "page-index-meta-title": "Početna",
-  "page-index-title": "Dobro došli na Ethereum",
-  "page-index-description": "Ethereum je tehnologija vođena od strane zajednice koja pokreće kriptovalutu ether (ETH) i na hiljade decentralizovanih aplikacija.",
+  "page-index-title_eth": "Dobro došli na Ethereum",
+  "page-index-description-old": "Ethereum je tehnologija vođena od strane zajednice koja pokreće kriptovalutu ether (ETH) i na hiljade decentralizovanih aplikacija.",
   "page-index-title-button": "Istražite Ethereum",
   "page-index-get-started": "Započni",
   "page-index-get-started-description": "ethereum.org je tvoj portal u svet Ethereum-a. Tehnologija je nova i u stalnom razvoju – tako da je od pomoći imati uputstvo. U nastavku su preporuke šta uraditi, ukoliko želiš da saznaš više.",

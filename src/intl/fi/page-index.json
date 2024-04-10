@@ -1,9 +1,9 @@
 {
   "page-index-hero-image-alt": "Kuva Ethereum-ekosysteemiä edustavasta futuristisesta kaupungista.",
-  "page-index-meta-description": "Ethereum on maailmanlaajuinen, hajautettu alusta rahaa ja uudenlaisia sovelluksia varten. Ethereumin avulla voit kirjoittaa rahaa säätelevää koodia, ja rakentaa sovelluksia kaikkialle maailmaan.",
+  "page-index-meta-description-old": "Ethereum on maailmanlaajuinen, hajautettu alusta rahaa ja uudenlaisia sovelluksia varten. Ethereumin avulla voit kirjoittaa rahaa säätelevää koodia, ja rakentaa sovelluksia kaikkialle maailmaan.",
   "page-index-meta-title": "Etusivu",
-  "page-index-title": "Tervetuloa Ethereumiin",
-  "page-index-description": "Ethereum on online-yhteisön ylläpitämä teknologia kryptovaluutta etherin (ETH) ja tuhansien muiden hajautettujen sovellusten takana.",
+  "page-index-title_eth": "Tervetuloa Ethereumiin",
+  "page-index-description-old": "Ethereum on online-yhteisön ylläpitämä teknologia kryptovaluutta etherin (ETH) ja tuhansien muiden hajautettujen sovellusten takana.",
   "page-index-title-button": "Tutustu Ethereumiin",
   "page-index-get-started": "Aloittaminen",
   "page-index-get-started-description": "ethereum.org on portaalisi Ethereumin maailmaan. Teknologia on uutta ja alati kehittyvää – oppaasta on siis hyötyä. Suosittelemme toimimaan näin, mikäli haluat sukeltaa sisään.",
